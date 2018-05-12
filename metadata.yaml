@@ -1,0 +1,41 @@
+_repo: The-Mississippi-Bubble--13-How-the-Star-of-Good-Fortune-Rose-and-Set-and-Rose-Again-by-a-Woma__14001
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Hutt, Henry
+    birthdate: 1875
+    deathdate: 1950
+    gutenberg_agent_id: '8076'
+    url: http://www.gutenberg.org/2009/agents/8076
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hough, Emerson
+    birthdate: 1857
+    deathdate: 1923
+    gutenberg_agent_id: '1094'
+    url: http://www.gutenberg.org/2009/agents/1094
+    wikipedia: http://en.wikipedia.org/wiki/Emerson_Hough
+description: Emerson Hough made his name as a writer of Westerns, but the frontier
+  lawyer also had a keen interest in the rough tapestry of American history as a whole.
+  In this historical novel, he details the remarkable life of Scottish economist John
+  Law, who put his controversial business ideas to work in Mississippi and Louisiana
+  and caused a financial mess so profound that he had to flee the region disguised
+  as a female traveler to preserve his own safety.
+gutenberg_bookshelf: Bestsellers, American, 1895-1923
+gutenberg_issued: '2004-11-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14001'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Law, John, 1671-1729 -- Fiction'
+- !lcc 'PS'
+title: "The Mississippi Bubble\r\nHow the Star of Good Fortune Rose and Set and Rose\
+  \ Again, by a Woman's Grace, for One John Law of Lauriston"
+url: http://www.gutenberg.org/ebooks/14001
